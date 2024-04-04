@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6031469972988260288
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3633950135068000750, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 392.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3633950135068000750, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3633950135068000750, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 90.393555
+      objectReference: {fileID: 0}
+    - target: {fileID: 3633950135068000750, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3633950135068000750, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3633950135068000750, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3633950135068000750, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3633950135068000750, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3633950135068000750, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3633950135068000750, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5652650061152322398, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5652650061152322398, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.data[1]
+      value: 1212995359
+      objectReference: {fileID: 0}
+    - target: {fileID: 6710842929628329764, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+      propertyPath: m_Name
+      value: SunLight (2) Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 4903255339790691497, guid: d414861fe05cd5942826a988562a5d32, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d414861fe05cd5942826a988562a5d32, type: 3}
