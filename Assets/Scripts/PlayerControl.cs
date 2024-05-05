@@ -21,7 +21,6 @@ public class PlayerControl : MonoBehaviour
     public float angle;
     private float t;
 
-    public float jump_time;
     public float jump_height;
     public float jump_thershold;
     public float falling_speed;
